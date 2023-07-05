@@ -137,7 +137,7 @@
 
 .featured {
 	width: 1143px;
-	height: 1145px;
+	height: 640px;
 	margin: 59px auto;
 	padding: 1px 7px 0 0;
 }
@@ -229,6 +229,7 @@
 	height: 327px;
 	display: flex;
 	justify-content: space-between;
+	margin: auto;
 	margin-top: 5px;
 }
 
@@ -269,7 +270,7 @@
 	justify-content: center;
 	align-items: center;
 	background: #303030;
-	margin: 62px 454px;
+	margin: 62px auto;
 	font-family: 'Kanit', sans-serif;
 	font-style: normal;
 	font-weight: 500;
@@ -393,6 +394,24 @@
 
 .d2 {
 	margin: 7px 0 29px 0;
+}
+
+.see-1 {
+	width: 238px;
+	height: 42px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: #303030;
+	margin: 62px 454px;
+	font-family: 'Kanit', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 21px;
+	text-align: center;
+	color: #FFFFFF;
+	text-decoration: none;
 }
 
 .see-1 {
