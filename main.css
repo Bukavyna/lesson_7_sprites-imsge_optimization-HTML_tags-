@@ -209,7 +209,6 @@
 	line-height: 27px;
 	color: #1F1F1D;
 	margin-left: -1px;
-	margin-top: ;
 }
 
 .aut {
@@ -428,7 +427,7 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin: 93px auto;
+	margin: 93px auto 0;
 }
 
 .footer-big {
